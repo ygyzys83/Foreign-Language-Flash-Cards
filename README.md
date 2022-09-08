@@ -2,8 +2,8 @@
 
 A simple foreign language flash card program created with PyCharm.
 
-<img src="ref/Flash_Card_Front.png" alt="Logo" width="250" height="auto">
-<img src="ref/Flash_Card_Back.png" alt="Logo" width="250" height="auto">
+<img src="[ref/Flash_Card_Front.png](https://github.com/ygyzys83/Foreign-Language-Flash-Cards/blob/main/ref/Flash_Card_Front.PNG)" alt="Logo" width="250" height="auto">
+<img src="[ref/Flash_Card_Back.png](https://github.com/ygyzys83/Foreign-Language-Flash-Cards/blob/main/ref/Flash_Card_Back.PNG)" alt="Logo" width="250" height="auto">
 
 ## Description
 
