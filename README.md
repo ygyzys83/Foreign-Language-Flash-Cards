@@ -2,6 +2,9 @@
 
 A simple foreign language flash card program created with PyCharm.
 
+<img src="ref/Flash_Card_Front.png" alt="Logo" width="250" height="auto">
+<img src="ref/Flash_Card_Back.png" alt="Logo" width="250" height="auto">
+
 ## Description
 
 Load a dictionary of words from a foreign language to learn. Save the words that have not been learned into a new dictionary which loads the next time the program is run.
